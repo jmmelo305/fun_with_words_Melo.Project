@@ -9,7 +9,7 @@
 ###### 1. UPDATE WORD_REL_RO
 ###### 2. SET syn_col = 'blithe'
 ###### 3. WHERE word = 'insouciant';
-#### (Not sure if you wanted it in the README Fle, Screenshot is also provided in Blackboard.)
+#### (Not sure if you wanted it in the README File, Screenshot is also provided in Blackboard.)
 
 
 # STEP 3
