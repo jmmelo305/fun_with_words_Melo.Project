@@ -1,5 +1,6 @@
-# fun_with_words_Melo.Project
+# Jose Melo
 #### Repository for DBA 120 Week 13
+#### fun_with_words_Melo.sql 
 
 # STEP 1
 #### Question 3 Error Message:
