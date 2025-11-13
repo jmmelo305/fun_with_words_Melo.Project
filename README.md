@@ -1,5 +1,5 @@
 # Jose Melo
-### Date: 11-13-2025
+## Date: 11-13-2025
 #### Repository for DBA 120 Week 13
 #### fun_with_words_Melo.sql 
 
@@ -18,4 +18,6 @@
 #### Why are DML operations restricted in some views?
 ###### - DML Operations aren't allowed to be done on Views that are "READ ONLY"
 #### How is a materialized view different from a regular view?
-###### - A materialized view is different from a regular view because materialized view stores data and runs faster than a Regular View, which doesn't store data and is Query - Time based. 
+###### - A materialized view differs from a regular view because it stores data and can provide faster query results compared to a regular view that does not store data and takes longers to generate.
+
+
