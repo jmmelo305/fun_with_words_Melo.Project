@@ -12,8 +12,8 @@
 
 # STEP 3
 #### Which commands caused errors, and why?
-##### - 
+##### - The Update Command in Question 3 caused an error, this is because I tried doing an Update command on a "READ ONLY" View.
 #### Why are DML operations restricted in some views?
-##### - 
+##### - DML Operations aren't allowed to be done on Views that are "READ ONLY"
 #### How is a materialized view different from a regular view?
-##### - 
+##### - A materialized view is different from a regular view because materialized view stores 
