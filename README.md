@@ -1,5 +1,5 @@
 # fun_with_words_Melo.Project
-### Repository for DBA 120 Week 13
+#### Repository for DBA 120 Week 13
 
 # STEP 1
 #### Question 3 Error Message:
@@ -7,6 +7,13 @@
 #### 1. UPDATE WORD_REL_RO
 #### 2. SET syn_col = 'blithe'
 #### 3. WHERE word = 'insouciant';
+#### Screenshot also provided in Blackboard.
 
-## STEP 3
-#
+
+# STEP 3
+#### Which commands caused errors, and why?
+##### - 
+#### Why are DML operations restricted in some views?
+##### - 
+#### How is a materialized view different from a regular view?
+##### - 
